@@ -1,0 +1,6 @@
+uang_saku_kat       n  prop
+  <ord>           <int> <dbl>
+1 500k s.d 1 jt     307  69  
+2 1 jt s.d 1,5 jt    89  20  
+3 1,5 jt s.d 2 jt    32   7.2
+4 > 2 jt             17   3.8

@@ -1,0 +1,25 @@
+Call:
+lm(formula = uang_saku_num ~ jml_keluarga, data = data_clean)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-238060 -231421 -228102  268579 1278537 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    994699      71780  13.858   <2e-16 ***
+jml_keluarga    -3319      14854  -0.223    0.823    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 395000 on 443 degrees of freedom
+Multiple R-squared:  0.0001127,	Adjusted R-squared:  -0.002144 
+F-statistic: 0.04994 on 1 and 443 DF,  p-value: 0.8233
+
+
+=== INTERPRETASI REGRESI ===
+Persamaan garis regresi: Y = 994699.1 + -3319.4 * X
+Koefisien slope (beta1) = -3319.4 bermakna bahwa setiap kenaikan 1 anggota keluarga
+ diestimasikan mengubah uang saku rata-rata sekitar -3319.4 rupiah.
+Nilai R-squared = 0 menunjukkan bahwa sekitar 0 % variasi uang saku dapat dijelaskan oleh variasi jumlah anggota keluarga.
+Secara statistik, pengaruh jumlah anggota keluarga TIDAK signifikan (p-value ≥ 0,05).

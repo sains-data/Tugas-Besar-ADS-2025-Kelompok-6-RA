@@ -1,0 +1,3 @@
+=== KESIMPULAN UMUM ===
+Berdasarkan analisis korelasi dan regresi, jumlah anggota keluarga bukan prediktor yang kuat maupun signifikan secara statistik untuk menjelaskan variasi uang saku mahasiswa.
+Hasil ini menunjukkan bahwa faktor lain di luar jumlah anggota keluarga kemungkinan lebih berperan dalam menentukan besar kecilnya uang saku.

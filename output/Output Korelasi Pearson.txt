@@ -1,0 +1,10 @@
+Pearson's product-moment correlation
+
+data:  data_clean$jml_keluarga and data_clean$uang_saku_num
+t = -0.22347, df = 443, p-value = 0.8233
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.10347173  0.08242117
+sample estimates:
+        cor 
+-0.01061701 
