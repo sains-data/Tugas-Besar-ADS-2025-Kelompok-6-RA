@@ -20,7 +20,7 @@ code/codeR_6_RA.R
 4. Buka script di RStudio lalu install paket yang dibutuhkan:
    
 - install.packages(c("readxl","dplyr","ggplot2","tidyr","broom"))
-- Pada baris ## IMPORT DATA data_raw <- read_excel("C:/Main File Location/Downloads/Dataset Tugas Besar ADS 2025.xlsx") ##, jangan lupa untuk mengganti path sesuai dengan direktori masing-masing
+- Pada baris ## data_raw <- read_excel("C:/Main File Location/Downloads/Dataset Tugas Besar ADS 2025.xlsx") ##, jangan lupa untuk mengganti path sesuai dengan direktori masing-masing
 - Jalankan script dengan menekan:
 - Ctrl + Shift + Enter, atau
 - klik Run All
