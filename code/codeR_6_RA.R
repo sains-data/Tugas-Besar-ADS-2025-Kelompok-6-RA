@@ -243,4 +243,3 @@ cat("Hasil ini menunjukkan bahwa faktor lain di luar jumlah anggota keluarga",
     "kemungkinan lebih berperan dalam menentukan besar kecilnya uang saku.\n")
 
 ```
-
