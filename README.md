@@ -33,11 +33,7 @@ library(tidyr)
 library(broom)
 
 ## 3. Penjelasan Singkat Dataset 
-- Dataset berasal dari Survei Karakteristik Mahasiswa ITERA (N = 445) yang berisi:
-- Jumlah Anggota Keluarga (X) Variabel Independen
-- Uang Saku (Y) dalam bentuk kategori Variabel Dependen
-- Dataset digunakan untuk analisis deskriptif, korelasi Pearson, dan regresi linear sederhana.
-
+Dataset berasal dari Survei Karakteristik Mahasiswa ITERA (N = 458) yang berisi berbagai informasi dasar mahasiswa, meliputi jenis kelamin, program studi, angkatan, IPK, domisili, status tempat tinggal, jumlah saudara, jumlah anggota keluarga, serta uang saku yang diberikan orang tua. Dalam penelitian ini, analisis utama difokuskan pada dua variabel: Jumlah Anggota Keluarga (X) sebagai variabel independen dan Uang Saku (Y) (kategori → dikonversi ke numerik) sebagai variabel dependen untuk analisis deskriptif, korelasi Pearson, dan regresi linear sederhana.
 ## 4. Struktur Repository
 /data/     → dataset mentah & hasil cleaning  
 /code/     → script R (codeR_6_RA.R)  
