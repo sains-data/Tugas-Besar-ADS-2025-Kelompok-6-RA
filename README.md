@@ -39,7 +39,7 @@ Dataset berasal dari Survei Karakteristik Mahasiswa ITERA (N = 458) yang berisi 
 /code/     → script R (codeR_6_RA.R)  
 /output/   → grafik, tabel, hasil olahan statistik  
 /poster/   → poster A1 (PDF)  
-README.md  → Petunjuk 
+README.md  → petunjuk 
 
 
 
