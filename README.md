@@ -35,7 +35,7 @@ library(broom)
 ## 3. Penjelasan Singkat Dataset 
 - Dataset berasal dari Survei Karakteristik Mahasiswa ITERA (N = 445) yang berisi:
 - Jumlah Anggota Keluarga (X) Variabel Independen
-- Uang Saku (Y) dalam bentuk kategori (dikonversi menjadi nilai midpoint) Variabel Dependen
+- Uang Saku (Y) dalam bentuk kategori (dikonversi menjadi nilai median) Variabel Dependen
 - Dataset digunakan untuk analisis deskriptif, korelasi Pearson, dan regresi linear sederhana.
 
 ## 4. Struktur Repository
